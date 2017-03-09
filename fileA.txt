@@ -1,1 +1,2 @@
 Ceci est mon premier fichier fileA.txt
+ajout d'une ligne dans fileA
